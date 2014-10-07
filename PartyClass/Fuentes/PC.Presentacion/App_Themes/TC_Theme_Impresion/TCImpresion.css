@@ -1,0 +1,270 @@
+﻿/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                 GASPAR - EEPPM - 27/Agosto/2007                 + */
+/* +               Diseño: JULIO CESAR GONZÁLEZ ARANGO               + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+body
+{
+    font: 0.7em Verdana, Geneva, Arial, helvetica, sans-serif;
+    margin: 0px 10px 5px 10px;
+    color: #5fa81d;
+}
+input; select
+{
+    border: 1px solid #5FA81D;
+}
+fieldset
+{
+	border: 1px solid #999999;
+	margin: auto;
+	padding: 5px 5%;
+	width: 70%;
+}
+fieldset legend{
+	color:#5FA81D;
+	font-weight:bold;
+}
+h2{
+	border-bottom:10px dotted #5FA81D;
+	color:#5FA81D;
+	font-size:1.3em;
+	font-weight:bold;
+	margin:auto;
+	padding:0px 0px 10px 0px;
+	width:90%;
+}
+#divMarco{
+	/*display: none;
+	visibility: hidden;*/
+}
+#divContenido
+{
+	/*display:none;
+	border-left:1px solid #037834;
+	border-right:1px solid #037834;*/
+	padding:15px 0px;
+	width:99.8%;
+}
+
+.divMensajeUsuario01{
+	height:70px;
+	width:100%;
+	vertical-align:middle;
+}
+.divMensajeUsuario01 p{
+	margin:auto 0px auto 68px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                    CABEZOTE - NOMBRE APLICACION                 + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divCabezote01, #divCabezote02, #divCabezote02 h1 {
+	display: none;
+	visibility:hidden;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                     EMPRESA - SERVICIO -FECHA                   + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divEmpresaFecha, .spnEtiqueta01, .spnEtiqueta02, .spnFecha{
+	display: none;
+	visibility:hidden;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                               MENU                              + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divFranjaMenu, #divMenu01, #divMenu02, #divMenu03, .ItemMenu01, .ItemMenu01 a, .SubItemMenu01, .SubItemMenu01_Item, .SubItemMenu01_Hover, .SubItemMenu01_Selected{
+	display: none;
+	visibility:hidden;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                             VENTANA                             + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblVentana
+{
+	margin:10px auto;
+}
+.tdVentanaArrIzq{
+	height:16px;
+	width:5%;
+}
+.tdVentanaArrCen{
+	height:16px;
+	width:90%;
+}
+.tdVentanaArrDer{
+	height:16px;
+	width:5%;
+}
+.tdVentanaAbaIzq{
+	height:16px;
+	width:5%;
+}
+.tdVentanaAbaCen{
+	height:16px;
+	width:90%;
+}
+.tdVentanaAbaDer{
+	height:16px;
+	width:5%;
+}
+.tdVentanaCenIzq{
+	height:16px;
+	width:16px;
+}
+.tdVentanaCenCen{
+	padding:0px 5px 0px 5px;
+}
+.tdVentanaCenDer{
+	height:16px;
+	width:5%;
+}
+.pVentanaTitulo{
+	/*border-bottom:1px dotted #5FA81D;*/
+	color:#5FA81D;
+	font-size:1em;
+	font-weight:bold;
+	margin:0px 0px 10px 0px;
+	padding-bottom:8px;
+}
+.divVentanaBoton{
+	/*border-top:1px dotted #5FA81D;*/
+	color:#5FA81D;
+	font-weight:bold;
+	margin:10px 0px 0px 0px;
+	padding-top:8px;
+	text-align:right;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           FORMULARIOS                           + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblFormulario{
+	border-width:0px;
+	border-collapse:collapse;
+	margin:auto;
+}
+.tblFormulario td{
+	padding:3px;
+}
+.tdFormularioEtiqueta{
+	color:#5FA81D;
+	font-size:1em;
+	font-weight:bold;
+}
+.btnFormulario{
+	display:none;
+}
+.tbxCampo01{
+	width:99%;
+}
+.tbxCampo02
+{
+	width:85%;
+}
+.ddlCampo01{
+	width:100%;
+}
+.ddlCampo02{
+	width:86%;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                            DATA GRID                            + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblDataGrid{
+	/*border-width:0px;
+	border-collapse:collapse;
+	border-bottom:1px solid #CCCCCC;*/
+	margin:15px auto;
+}
+.tdHeader01{
+	color:#FFFFFF;
+	font-weight:bold;
+	height:26px;
+	padding:0px 3px;
+	text-align:center;
+}
+.tdHeader02
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	height: 26px;
+	padding: 0px 3px;
+	text-align: center;
+}
+.tdHeader03
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	height: 26px;
+	padding: 0px 3px;
+	text-align: center;
+}
+.tdItem01
+{
+	border-left: 1px solid #CCCCCC;
+	color: #000080;
+	padding: 4px 3px;
+	text-align: center;
+}
+.tdItem01_Centrado{
+	border-left:1px solid #CCCCCC;
+	color:#026834;
+	padding:4px 3px;
+	text-align:left;
+}
+.tdItem02{
+	color:#026834;
+	padding:4px 3px;
+}
+.tdItem03{
+	border-right:1px solid #CCCCCC;
+	color:#026834;
+	padding:4px 3px;
+}
+.tdAlterItem01{
+	border-left:1px solid #CCCCCC;
+	color:#5FA81D;
+	padding:4px 3px;
+}
+.tdAlterItem01_Centrado{
+	border-left:1px solid #CCCCCC;
+	color:#5FA81D;
+	padding:4px 3px;
+	text-align:center;
+}
+.tdAlterItem02{
+	color:#5FA81D;
+	padding:4px 3px;
+}
+.tdAlterItem03{
+	border-right:1px solid #CCCCCC;
+	color:#5FA81D;
+	padding:4px 3px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           PIE DE PAGINA                         + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divPiePagina{
+	/*border-top:1px solid #037834;*/
+	height:24px;
+	width:100%;
+}
+#divPiePagina01{
+	float:left;
+	height:24px;
+	position:relative;
+	width:2.49%;
+}
+#divPiePagina02{
+	color:#FFFFFF;
+	float:left;
+	font-size:0.8em;
+	height:20px;
+	padding-top:4px;
+	position:relative;
+	text-align:center;
+	width:95%;
+}
+#divPiePagina03{
+	float:right;
+	height:24px;
+	position:relative;
+	width:2.49%;
+}

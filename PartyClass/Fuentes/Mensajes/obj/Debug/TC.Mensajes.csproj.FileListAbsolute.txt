@@ -1,0 +1,16 @@
+C:\_PROYECTOS\TourColombia\TC.Mensajes\bin\Debug\Mensajes.xml
+C:\_PROYECTOS\TourColombia\TC.Mensajes\bin\Debug\TC.Mensajes.dll
+C:\_PROYECTOS\TourColombia\TC.Mensajes\bin\Debug\TC.Mensajes.pdb
+C:\_PROYECTOS\TourColombia\TC.Mensajes\obj\Debug\ResolveAssemblyReference.cache
+C:\_PROYECTOS\TourColombia\TC.Mensajes\obj\Debug\TC.Mensajes.dll
+C:\_PROYECTOS\TourColombia\TC.Mensajes\obj\Debug\TC.Mensajes.pdb
+D:\Proyectos\TC\Fuentes\TC.Mensajes\bin\Debug\Mensajes.xml
+D:\Proyectos\TC\Fuentes\TC.Mensajes\bin\Debug\TC.Mensajes.dll
+D:\Proyectos\TC\Fuentes\TC.Mensajes\bin\Debug\TC.Mensajes.pdb
+D:\Proyectos\TC\Fuentes\TC.Mensajes\obj\Debug\TC.Mensajes.dll
+D:\Proyectos\TC\Fuentes\TC.Mensajes\obj\Debug\TC.Mensajes.pdb
+D:\Proyectos\PartyClass\TC.Mensajes\bin\Debug\Mensajes.xml
+D:\Proyectos\PartyClass\TC.Mensajes\bin\Debug\TC.Mensajes.dll
+D:\Proyectos\PartyClass\TC.Mensajes\bin\Debug\TC.Mensajes.pdb
+D:\Proyectos\PartyClass\TC.Mensajes\obj\Debug\TC.Mensajes.dll
+D:\Proyectos\PartyClass\TC.Mensajes\obj\Debug\TC.Mensajes.pdb

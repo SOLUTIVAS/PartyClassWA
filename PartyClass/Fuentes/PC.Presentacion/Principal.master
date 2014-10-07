@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Principal.master.cs" Inherits="PC.Principal" %>
+
+<%@ Register TagPrefix="telerik" Namespace="Telerik.Web.UI" Assembly="Telerik.Web.UI" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Party Class</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <telerik:RadStyleSheetManager ID="RadStyleSheetManager1" runat="server" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="files/styles/style.css" rel="stylesheet" type="text/css" />
+    <!--GoogleAnalytics tracking script-->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-111455-1']);
+        _gaq.push(['_setDomainName', '.telerik.com']);
+        _gaq.push(['_addIgnoredRef', 'telerik.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        function trackPage(page) {
+            _gaq.push(['_trackPageview', page]);
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" runat="server" EnablePageMethods="true">
+        <CdnSettings TelerikCdn="Enabled" />
+    </telerik:RadScriptManager>
+    <div id="header">
+        <div class="topNav">
+            <div class="nav">
+                <a>Usuario:
+                    <asp:Label ID="lblUsuario" runat="server" Text="Label"></asp:Label>
+                </a><a>Fecha:
+                    <asp:Label ID="lblFecha" runat="server" Text="Label"></asp:Label>
+                </a><a href="Default.aspx">Ayuda</a>
+            </div>
+        </div>
+        <div class="headerCont">
+            <div class="hgroup">
+                <h1>
+                    <a href="Default.aspx">
+                        <img src="files/images/logo_main.png" alt="Test" /></a></h1>
+                <%--<h2><img src="files/images/logo_second.png" alt="Test Project" /></h2>--%>
+            </div>
+            <telerik:RadMenu ID="RadMenuNavigation" runat="server" EnableEmbeddedSkins="False"
+                Skin="" ResolvedRenderMode="Classic">
+                <Items>
+                    <telerik:RadMenuItem Text="Gestionar Clientes ">
+                        <Items>
+                            <telerik:RadMenuItem Text="Crear Cliente - Estudiante" NavigateUrl="RegistroClientes.aspx" />
+                            <telerik:RadMenuItem Text="Consultar Cliente - Estudiante" NavigateUrl="Welcome.aspx" />
+                        </Items>
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem Text="Gestionar Llamadas ">
+                        <Items>
+                            <telerik:RadMenuItem Text="Registrar Llamada " NavigateUrl="Llamadas.aspx" />
+                            <telerik:RadMenuItem Text="Consultar Llamada " NavigateUrl="Welcome.aspx" />
+                        </Items>
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem Text="Gestionar Maestros ">
+                        <Items>
+                            <telerik:RadMenuItem Text="Protocolos " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Colegios " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Organizaciones " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Usuarios " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Planes " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Grupos " NavigateUrl="Welcome.aspx" />
+                            <telerik:RadMenuItem Text="Hoteles " NavigateUrl="Welcome.aspx" />
+                        </Items>
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem Text="Gestionar Planes ">
+                        <Items>
+                            <telerik:RadMenuItem Text="Asignar Cliente a Plan " NavigateUrl="GestionarPlan.aspx" />
+                            <telerik:RadMenuItem Text="Consultar Cliente Evento " NavigateUrl="Welcome.aspx" />
+                        </Items>
+                    </telerik:RadMenuItem>                                        
+                </Items>
+            </telerik:RadMenu>
+        </div>
+    </div>
+    <div id="content">
+        <div class="wrapper">
+            <telerik:RadSkinManager ID="RadSkinManager1" runat="server" Skin="Windows7">
+            </telerik:RadSkinManager>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <p class="about">
+                Party Class <a href="http://www.partyclass.co" onclick="_gaq.push(['_trackPageview', '/ajax-olympic-sample-app/controls']);">
+                    Party Class</a>
+            </p>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="section">
+            <span class="copyright">Copyright 2014-<%=DateTime.Now.Year.ToString() %>
+                &copy; Party Class. All rights reserved.</span>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

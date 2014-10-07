@@ -1,0 +1,48 @@
+﻿<%-- ------------------------------------------ Image ------------------------------------------ --%>
+<asp:Image runat="server" SkinID="LogoInicio" ImageUrl="imgGaspar/TourColombiaLogo.jpg" Height="130px" Width="491px" />
+<asp:Image runat="server" SkinID="Progreso" ImageUrl="imgGaspar/loadinfo.gif" alt="Loading" />
+<asp:Image runat="server" SkinID="mensOk" ImageUrl="imgGaspar/ok32x32.gif" alt="Ok" align="middle" />
+<asp:Image runat="server" SkinID="mensInfo" ImageUrl="imgGaspar/info32x32.gif" alt="Info" align="middle" />
+<asp:Image runat="server" SkinID="mensAlerta" ImageUrl="imgGaspar/alert32x32.gif" alt="Alerta" align="middle" />
+<asp:Image runat="server" SkinID="mensError" ImageUrl="imgGaspar/error32x32.gif" alt="Error" align="middle" />
+
+
+<%-- ------------------------------------------ ImageButton ------------------------------------------ --%>
+<asp:ImageButton runat="server" SkinID="imgCalendario" ImageAlign="AbsMiddle" ImageUrl="/imgGaspar/imgCalendario.png" />
+<asp:ImageButton runat="server" SkinID="imgEditar" ImageAlign="AbsMiddle" ImageUrl="/imgGaspar/btnDataGritEditar.gif" />
+
+
+<%-- ------------------------------------------ GridView ------------------------------------------ --%>
+<asp:GridView runat="server" SkinID="GridViewGeneral" EmptyDataText="No hay datos para mostrar" AllowSorting="True" AutoGenerateColumns="False" CaptionAlign="Top" CellPadding="4" GridLines="None" ForeColor="#333333" CssClass="tblDataGrid">
+    <RowStyle CssClass="tdItem01_Centrado" />
+    <PagerStyle HorizontalAlign="Right" />
+    <AlternatingRowStyle CssClass="tdAlterItem01_Centrado" />
+</asp:GridView>
+
+<asp:GridView runat="server" AutoGenerateColumns="False" ShowHeader="false" ShowFooter="false" SkinID="GridViewInterno" BorderWidth="0" Width="100%" CssClass="tblDataGridInterno">
+</asp:GridView>
+
+<%-- ------------------------------------------ Button ------------------------------------------ --%>
+<asp:Button runat="server" Text="Guardar" Width="75px" SkinID="botonGuardar"/>
+<asp:Button runat="server" Text="Cancelar" Width="75px" SkinID="botonCancelar"/>
+<asp:Button runat="server" Text="Consultar" Width="75px" SkinID="botonConsultar"/>
+<asp:Button runat="server" Text="Ingresar" Width="75px" SkinID="botonIngresar" />
+<asp:Button runat="server" Text="Seleccionar Clientes" Width="140px" SkinID="botonClientesPago" />
+<asp:Button runat="server" Text="Ocultar Selección Clientes" Width="180px" SkinID="botonOcultarClientesPago" />
+
+
+
+<%-- ------------------------------------------ Label ------------------------------------------ --%>
+<asp:Label runat="server" Font-Bold="True" Font-Size="Medium" ForeColor="Red" SkinID="labelError"/>
+
+<%-- ------------------------------------------ DropDownList ------------------------------------------ --%>
+<asp:DropDownList runat="server" Width="175px"   SkinID="ddlRegistroClientes" />
+<asp:DropDownList runat="server" Height="18px" CssClass="listas" />
+
+
+<asp:Menu runat="server" Orientation="Horizontal" CssClass="ItemMenu01" StaticSubMenuIndent="" SkinID="menuPrincipal">
+    <DynamicHoverStyle CssClass="SubItemMenu01_Hover" />
+    <DynamicMenuStyle CssClass="SubItemMenu01" />
+    <DynamicSelectedStyle CssClass="SubItemMenu01_Selected" />
+    <DynamicMenuItemStyle CssClass="SubItemMenu01_Item" />
+</asp:Menu>

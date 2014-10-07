@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mensajes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Mensaje Genérico de Información-->
+  <mensaje tipo="3" codigo="0">{0}</mensaje>
+  <mensaje tipo="4" codigo="4">¿Está seguro que quiere cancelar la operación?</mensaje>
+
+  <mensaje tipo="1" codigo="500">El sistema no pudo realizar la operación solicitada. Por favor contacte al administrador del sistema.</mensaje>
+
+  <mensaje tipo="1" codigo="101">Error almacenando la información.</mensaje>
+  <mensaje tipo="1" codigo="102">Error actualizando la información.</mensaje>
+  <mensaje tipo="1" codigo="107">La fecha final no puede ser menor que la fecha inicial.</mensaje>
+  <mensaje tipo="1" codigo="110">La extensión del archivo no está soportada.</mensaje>
+  <mensaje tipo="1" codigo="111">No se ha subido ningún archivo.</mensaje>
+  <mensaje tipo="1" codigo="112">Debe ingresar toda la información del hotel o del vuelo según sea el caso.</mensaje>
+
+  <mensaje tipo="2" codigo="201">¿Está seguro que desea eliminar el reporte {0}?</mensaje>  
+
+  <mensaje tipo="5" codigo="301">El proceso ha finalizado exitosamente.</mensaje>
+  <mensaje tipo="1" codigo="302">No se encontraron registros.</mensaje>  
+  <mensaje tipo="5" codigo="303">La información se almacenó exitosamente.</mensaje>  
+  <mensaje tipo="5" codigo="304">La información se actualizó exitosamente.</mensaje>
+  <mensaje tipo="5" codigo="305">La información se eliminó exitosamente.</mensaje>   
+
+  <mensaje tipo="1" codigo="308">No se encontraron registros en la consulta.</mensaje>
+
+  <!-- Mensaje Genérico de error-->
+  <mensaje tipo="1" codigo="600">{0}</mensaje>
+  <!-- Mensaje Genérico confirmacion-->
+  <mensaje tipo="2" codigo="620">{0}</mensaje>
+  <!-- Mensaje Genérico exito-->
+  <mensaje tipo="5" codigo="630">{0}</mensaje>
+  <!-- Mensaje Genérico advertencia-->
+  <mensaje tipo="4" codigo="640">{0}</mensaje>
+</mensajes>

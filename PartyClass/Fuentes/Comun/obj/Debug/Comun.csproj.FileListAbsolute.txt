@@ -1,0 +1,12 @@
+D:\Proyectos\PartyClass\Comun\bin\Debug\TC.Comun.dll
+D:\Proyectos\PartyClass\Comun\bin\Debug\TC.Comun.pdb
+D:\Proyectos\PartyClass\Comun\obj\Debug\TC.Comun.dll
+D:\Proyectos\PartyClass\Comun\obj\Debug\TC.Comun.pdb
+D:\Proyectos\ProyectoGenerico\Fuentes\Comun\bin\Debug\Comun.dll
+D:\Proyectos\ProyectoGenerico\Fuentes\Comun\bin\Debug\Comun.pdb
+D:\Proyectos\ProyectoGenerico\Fuentes\Comun\obj\Debug\Comun.dll
+D:\Proyectos\ProyectoGenerico\Fuentes\Comun\obj\Debug\Comun.pdb
+D:\Proyectos\PartyClass\Fuentes\Comun\bin\Debug\Comun.dll
+D:\Proyectos\PartyClass\Fuentes\Comun\bin\Debug\Comun.pdb
+D:\Proyectos\PartyClass\Fuentes\Comun\obj\Debug\Comun.dll
+D:\Proyectos\PartyClass\Fuentes\Comun\obj\Debug\Comun.pdb

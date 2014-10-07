@@ -1,0 +1,1106 @@
+﻿/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                 CSS TOUR COLOMBIA                               + */
+/* +               Diseño: ANDRÉS JULIÁN CHALARCA ESCOBAR            + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+body {
+	background:url(imgGaspar/bgnBody.gif) 0% 0% repeat-x;
+	font:0.7em Verdana, Geneva, Arial, helvetica, sans-serif;
+	margin:0px 10px 5px 10px;
+}
+input{
+	/*background-color:#DDDDDD;*/
+	border:1px solid #0061AF;
+    text-align: justify;
+}
+
+/* Enlaces */
+A:link 
+{
+	text-decoration: none;
+	color: #0061B0;
+}
+A:visited 
+{
+	text-decoration: none;
+	color: #0061B0;
+}
+A:active 
+{
+	text-decoration: underline;
+	color: #0061B0;
+}
+A:hover 
+{
+	text-decoration: underline;
+	color: #0061B0;
+}
+#divContenido{
+	background:#FFF url(imgGaspar/bgnContenido.gif) 0% 0% repeat-x;
+	border-left:1px solid #037834;
+	border-right:1px solid #037834;
+	padding:15px 0px;
+	width:99.8%;
+}
+
+.divMensajeUsuario01{
+	background: url(imgGaspar/icoAdvertencia.gif) 0% 50% no-repeat;
+	background-position: left;
+	min-height:40px;
+	height: auto !important;
+	height: 40px; /*Hack para sortear el problema del min-height con ie6*/
+	width:100%;
+	vertical-align:middle;
+}
+.divMensajeUsuario01Error{
+	background:url(imgGaspar/icoProhibido2.gif) 0% 50% no-repeat;
+	min-height: 40px;
+	height: auto !important;
+	height: 40px; /*Hack para sortear el problema del min-height con ie6*/
+	width:100%;
+	vertical-align:middle;
+}
+.divMensajeUsuario01 p{
+	margin: 0px 0px 5px 45px;
+}
+.divMensajeUsuario01Error p{
+	margin: 0px 0px 5px 45px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                    CABEZOTE - NOMBRE APLICACION                 + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divCabezote01{
+	background:#CCC url(imgGaspar/imgCabezote01.jpg) 0% 0% no-repeat;
+	height:11px;
+	width:100%;
+}
+#divCabezote02{
+	background: #004394 url(imgGaspar/imgCabezote02.jpg) 0% 0% no-repeat;
+	height:180px;
+	width:100%;
+}
+#divCabezoteTit{
+	height:45px;
+	float:right;
+	width:200px;
+}
+#divCabezoteTit h1{
+	color:#FFFFFF;
+	font-size:2.5em;
+	height:20px;
+	margin: 10px 30px 0px 0px;
+	padding-top:0px;
+	position:relative;
+}
+#divAlertas {
+	float:left;
+	/*background:url(imgGaspar/bgn_Alertas.gif) 156px 55px no-repeat;
+	width:515px;*/
+	height:46px;
+	padding: 17px 3px 3px 156px;
+	position: absolute;
+}
+.tablaAlertas 
+{
+	min-height: 43px;
+	height: auto !important;
+	height: 43px; /*Hack para sortear el problema del min-height con ie6*/
+	table-layout: fixed; 
+	width: 515px; 
+	border-collapse: collapse; 
+	border: none;
+}
+.tablaAlertas td
+{
+	border-style: none;
+}
+
+.tdAlertasDerecha
+{
+	width: 10px; background: url(imgGaspar/bgnAlertasArrIzq.gif) no-repeat;
+}
+.tdAlertasNum {
+	font-weight:bold;
+	color:#0063B5;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background: White url(imgGaspar/bgnAlertasArrCen.gif) repeat-x;
+	vertical-align: top;
+	padding-top: 4px;
+	width: 57px;
+	/*min-height: 43px;
+	height: auto !important;
+	height: 43px;*/ /*Hack para sortear el problema del min-height con ie6*/
+}
+.tdAlertasNombre {
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#D3562F;
+	padding-top: 4px;
+	background: White url(imgGaspar/bgnAlertasArrCen.gif) repeat-x;
+	vertical-align: top;
+	width: 67px;
+	/*min-height: 43px;
+	height: auto !important;
+	height: 43px;*/ /*Hack para sortear el problema del min-height con ie6*/
+}
+.tdAlertasDescripcion
+{
+	text-align: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#D3562F;
+	padding-top: 4px;
+	background: White url(imgGaspar/bgnAlertasArrCen.gif) repeat-x;
+	vertical-align: top;
+	/*min-height: 43px;
+	height: auto !important;
+	height: 43px;*/ /*Hack para sortear el problema del min-height con ie6*/
+}
+.tdAlertasIzquierda
+{
+	width: 35px; vertical-align: top; height:27px; background: url(imgGaspar/bgnAlertasCenDer.gif) repeat-y;
+}
+
+.tdAlertasPaginacion {
+	font-weight:bold;
+	color:#0063B5;
+	background: url(imgGaspar/alertasPaginacion.gif) no-repeat 0px 4px;
+	position: relative;
+	top: -20px;
+	left: 7px;
+	/*padding: 0px 0px 50px 0px;*/
+}
+.tdAlertasPag {
+	color:#0063B5;
+	font-size:10px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                     EMPRESA - SERVICIO -FECHA                   + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divEmpresaFecha{
+	background-color:#0061AF;
+	color:#A6D7FF;
+	border-bottom:1px solid #004494;
+	border-top:1px solid #004494;
+	height:20px;
+	line-height:19px;
+	width:100%;
+	vertical-align: middle;
+}
+.spnEtiqueta01{
+	float:left;
+	margin-left:30px;
+	position:relative;
+}
+.spnEtiqueta02{
+	float:left;
+	position:relative;
+}
+.spnFecha{
+	float:right;
+	margin-right:10px;
+	position:relative;
+    right: 135px;
+}
+.divCerrarSesion{
+	float:right;
+	margin:0px 15px 0px 20px;
+	position:relative;
+	font-weight: bold;
+}
+.divCerrarSesion A {
+	color:#A6D7FF;
+}
+.divCerrarSesion A:visited {
+	color:#A6D7FF;
+}
+#txtSalir{
+	cursor:hand;
+	background:url("imgGaspar/icoSalir.gif") no-repeat 100% 40%;
+	margin:0px 5px 0px 0px;
+	line-height:20px;
+	padding:0px 0px 0px 0px;
+	width:50px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                               MENU                              + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divFranjaMenu{
+	background:url(imgGaspar/bgnFranjaMenu.gif) 0% 0% repeat-x;
+	border-left:1px solid #037834;
+	border-right:1px solid #037834;
+	position:relative;
+	left:inherit;
+	height:25px;
+	width:99.8%;
+	z-index:20;
+}
+.divMenu01{
+	background:url(imgGaspar/bgnMenuIzq.gif) 0% 0% no-repeat;
+	float:left;
+	height:30px;
+	margin-left:0px;
+	position:relative;
+	width:15px;	
+}
+.divMenu01 A:hover{
+	color: White;
+}
+.divMenu02
+{
+    background: url(imgGaspar/bgnMenuCen.gif) 0% 0% repeat-x;
+    float: left;
+    height: 30px;
+    padding-top: 0px;
+    position: relative;
+    z-index: 80;
+}
+.divMenu02 A:hover
+{
+    color: #FFFFFF;
+    background-color: #0000FF;
+}
+#divMenu03{
+	background:url(imgGaspar/bgnMenuDer.gif) 0% 0% no-repeat;
+	float:left;
+	height:30px;
+	position:relative;
+	width:15px;	
+}
+.ItemMenu01{
+	color:#FFF;
+	font-weight:bold;
+	height:15px;
+}
+.ItemMenu01 a{
+	color:#FFF;
+	margin:0px 0px 0px 10px;
+	text-decoration:none;
+}
+.ItemMenu01 a:hover{
+	color:#FFF;
+	margin:0px 0px 0px 10px;
+	text-decoration:none;
+}
+.ItemMenu01 a:active{
+	color:#FFF;
+	margin:0px 0px 0px 10px;
+	text-decoration:none;
+}
+.ItemMenu01 a:visited{
+	color:#FFF;
+	margin:0px 0px 0px 10px;
+	text-decoration:none;
+}
+.SubItemMenu01{
+	background:#EFEFEF;
+	border:1px solid #BBBBBB;
+	color:#000000;
+	padding-top:3px;
+}
+.SubItemMenu01_Item{
+	color:#000000;
+	margin:3px;
+}
+
+/*
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                             VENTANA                             + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblVentana{
+	border-width:1px;
+	border-collapse:collapse;
+	width: 857px;
+	/*margin: 10px 0px 0px 0px;*/
+    text-align: left;
+    margin:10px auto;
+}
+VentanaCompleta{
+	border-width:1px;
+	border-collapse:collapse;
+	width: 100%;
+	margin: 10px auto;
+}
+.tdVentanaArrIzq{
+	background:url(imgGaspar/bgnVentanaArrIzq.gif) 0% 0% no-repeat;
+	height:16px;
+	width:5%;
+}
+.tdVentanaArrCen{
+	background:url(imgGaspar/bgnVentanaArrCen.gif) 0% 0% repeat-x;
+	height:16px;
+	width:90%;
+}
+.tdVentanaArrDer{
+	background:url(imgGaspar/bgnVentanaArrDer.gif) 100% 0% no-repeat;
+	height:16px;
+	width:5%;
+}
+.tdVentanaAbaIzq{
+	background:url(imgGaspar/bgnVentanaAbaIzq.gif) 0% 100% no-repeat;
+	height:16px;
+	width:5%;
+}
+.tdVentanaAbaCen{
+	background:url(imgGaspar/bgnVentanaAbaCen.gif) 0% 100% repeat-x;
+	height:16px;
+	width:90%;
+}
+.tdVentanaAbaDer{
+	background:url(imgGaspar/bgnVentanaAbaDer.gif) 100% 100% no-repeat;
+	height:16px;
+	width:5%;
+}
+.tdVentanaCenIzq{
+	background:#FFFFFF url(imgGaspar/bgnVentanaCenIzq.gif) 0% 0% repeat-y;
+	height:16px;
+	width:16px;
+}
+.tdVentanaCenCen{
+	background-color:#FFFFFF;
+	padding:0px 5px 0px 5px;
+	width:796px;
+}
+.tdVentanaCenDer{
+	background:#FFFFFF url(imgGaspar/bgnVentanaCenDer.gif) 100% 0% repeat-y;
+	height:16px;
+	width:5%;
+}
+.pVentanaTitulo
+{
+    border-bottom: 1px dotted #0061AF;
+    color: #0061AF;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0px 0px 10px 0px;
+    padding-bottom: 1px;
+    text-align: left;
+}
+
+
+	font-size:1em;
+	/*font-weight:bold;*/
+	padding-bottom:1px;
+}
+.divVentanaBoton{
+	border-top:1px dotted #0061AF;
+	color:#0061AF;
+	font-weight:bold;
+	margin:10px 0px 0px 0px;
+	padding-top:8px;
+	text-align: right;
+    width: 410px;
+    height: 23px;
+}
+/* +++++++++++++++++++++++++++++
+/* +++++++++++++++++++++++++++++
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                            DATA GRID                            + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblDataGrid{
+	/*border: solid 1px Red;*/
+	border: solid 0px #D4D0C8;
+	/*border-top: none;
+	border-left: none;
+	border-right: none;*/
+	border-collapse: collapse;
+	margin:15px auto 15px 0px;
+	text-align: left;
+}
+
+.tblDataGridInterno
+{
+    border-style: none;
+    border-collapse: collapse;
+    margin: 15px auto 15px 0px;
+    text-align: left;
+    border-top-width: none;
+    border-right-width: none;
+    border-bottom-width: none;
+    border-left-width: none;
+    border-top-color: none;
+    border-right-color: none;
+    border-bottom-color: none;
+    border-left-color: none;
+}
+
+.tblDataGrid td
+{
+	border: solid 1px #D4D0C8;
+}
+.tblDataGrid table td
+{
+	border: none;
+}
+
+.tdHeader00
+{
+    background: url(imgGaspar/bgnDataGridHeaderCompleto.gif) 0% 0% no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 26px;
+    padding: 0px 3px;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-top-style: none;
+    border-left-style: none;
+    border-width: medium;
+}
+.tdHeader01
+{
+    background: #FFFFFF url(imgGaspar/bgnDataGridHeaderIzq.gif) no-repeat 0% 0%;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 26px;
+    padding: 0px 3px;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+}
+.tdHeader02
+{
+    background: #FFFFFF url('imgGaspar/bgnDataGridHeaderCen.gif') no-repeat 0% 0%;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 26px;
+    padding: 0px 3px;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+}
+.tdHeader03
+{
+    background: #FFFFFF url(imgGaspar/bgnDataGridHeaderDer.gif) no-repeat 0% 0%;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 26px;
+    padding: 0px 3px;
+    text-align: center;
+    border-top: none;
+    border-right: none;
+    border-top-style: none;
+    border-top-width: medium;
+    border-left-style: none;
+    border-left-width: medium;
+}
+.tdFooter00
+{
+    background: #003399 url('imgGaspar/bgnDataGridHeaderCen.gif') no-repeat 0% 0%;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 20px;
+    padding: 0px 3px;
+    text-align: center;
+}
+.tdItem01_Centrado
+{
+    background-color: #EBEBEB;
+    color: #0033CC;
+    padding: 4px 3px;
+    text-align: left;
+    border: solid 1px #D4D0C8;
+    border-collapse: collapse;
+}
+
+.tdAlterItem01_Centrado
+{
+    background-color: #FFF;
+    border: solid 1px #D4D0C8;
+    color: #0061AF;
+    padding: 4px 3px;
+    text-align: left;
+    border-collapse: collapse;
+}
+.tdItem01
+{
+    background-color: #EBEBEB;
+    color: #003399;
+    padding: 4px 3px;
+    text-align: center;
+    border-collapse: collapse;
+}
+.tdItem02
+{
+    background-color: #EBEBEB;
+    color: #003399;
+    padding: 4px 3px;
+    border-collapse: collapse;
+}
+.tdItem03
+{
+    background-color: #EBEBEB;
+    border-right: 1px solid #CCCCCC;
+    color: #003399;
+    padding: 4px 3px;
+}
+.tdAlterItem02{
+	background-color:#FFF;
+	color:#0061AF;
+	padding:4px 3px;
+}
+.tdAlterItem01{
+	background-color:#FFF;
+	border-left:1px solid #CCCCCC;
+	color:#0061AF;
+	padding:4px 3px;
+}
+.tdAlterItem03{
+	background-color:#FFF;
+	border-right:1px solid #CCCCCC;
+	color:#0061AF;
+	padding:4px 3px;
+}
+.tdCell01
+{
+    border-style: none;
+    color: #0033cc;
+    font-weight: normal;
+    height: 26px;
+    text-align: left;
+    border-top-width: none;
+    border-right-width: none;
+    border-bottom-width: none;
+    border-left-width: none;
+    border-top-color: none;
+    border-right-color: none;
+    border-bottom-color: none;
+    border-left-color: none;
+}
+/*para controles utilizados dentro del grid */
+.tbxCampo02Grid{
+	width:170px;
+	height: 15px;
+}
+.tbxAreaCampo02Grid{
+	width:169px;
+	height: 40px;
+}
+
+.tbxCampoFechaDosColGrid{
+	width:150px;
+	height: 15px;
+}
+
+.ddlCampo02Grid{
+	width:175px;
+	height: 20px;
+}
+/* +++++++++++++++++++++++++++++++++++
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           FORMULARIOS                           + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/*.tblFormulario
+{
+    border-width: 0px;
+    border-collapse: collapse;
+    margin: 0px auto auto auto;
+    width: 831px; 
+    color: #0061AF;
+    font-size: 1em;
+    font-weight: 500;
+    width: 25%;
+}*/
+
+.tblValidator
+{
+	Font-Size:large;
+}
+
+/* Tabla para formulario de tres columnas (seis col
+/* +++++++++++++++++++++++++++++++++++
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           FORMULARIOS                           + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tblFormulario
+{
+    border-width: 0px;
+    border-collapse: collapse;
+    margin: 0px 30px auto 0px;
+    width: 831px; /*Modificó el padding antes estaba en 3*/
+    color: #0061AF;
+    font-size: 1em;
+    font-weight: 500;
+    width: 103%;
+    height: 45px;
+}
+
+.tblLogin
+{
+    border-width: 0px;
+    border-collapse: collapse;
+    margin: 0px 30px auto 0px;
+    width: 831px; /*Modificó el padding antes estaba en 3*/
+    color: #0061AF;
+    font-size: 1em;
+    font-weight: 500;
+    width: 25%;
+    height: 45px;
+}
+
+/* Tabla para formulario de tres columnas (seis col
+/* +++++++++++++++++++++++++++++++++++
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           FORMULARIOS                           + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/*.tblFormulario
+{
+    border-width: 0px;
+    border-collapse: collapse;
+    margin: 0px 30px auto 0px;
+    width: 831px; 
+    color: #0061AF;
+    font-size: 1em;
+    font-weight: 500;
+    width: 104%;*/
+    height: 45px;
+}
+
+
+idth:250px;
+	height: 20px;
+}
+
+/* Campos utilizados para formularios organizados en tres columnas */
+.tbxCampoTresCol{
+	width:181px;
+}
+
+.tbxCampoFechaTresCol{
+	width: 85px;
+	height: 15px;
+}
+
+.tbxCampoHoraTresCol{
+	width: 68px;
+	height: 15px;
+}
+
+.ddlCampoTresCol{
+	width:185px;
+}
+
+.imgFecha{
+	border: none;
+}
+
+.tdTituloFormularioEtiqueta
+{
+    color: #5FA81D;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: sub;
+}
+
+/*.tdTituloFormularioEtiqueta{
+	color:#0061AF;
+	font-size: 20px;
+	font-weight:bold;
+	text-align: center;
+	margin: 0px 0px 5px 0px;
+	width: 833px;
+}*/
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           PIE DE PAGINA                         + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+#divPiePagina
+{
+    background-color:#0061AF;
+	color:#A6D7FF;
+    background-position: 0% 100%;    
+    border-top: 1px solid #037834;
+    height: 24px;
+    width: 100%;
+    border-top-color: #0000FF;
+}
+#divPiePagina01{
+	background-color:#0061AF;
+	color:#A6D7FF;
+	float:left;
+	height:24px;
+	position:relative;
+	width:2.4%;
+}
+#divPiePagina02{
+	background-color:#0061AF;
+	color:#A6D7FF;
+	float:left;
+	font-size:0.8em;
+	height:20px;
+	padding-top:4px;
+	position:relative;
+	text-align:center;
+	width:95%;
+	z-index:0;
+	top: 0px;
+	left: 0px;
+}
+#divPiePagina03{
+	background-color:#0061AF;
+	color:#A6D7FF;
+	float:right;
+	height:24px;
+	position:relative;
+	width:2.4%;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                           CONTROL CALENDARIO                    + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.MyCalendar .ajax__calendar_container 
+{
+	border:1px solid #646464;
+    background-color: White;
+    z-index: 2;
+    /*width: 190px;*/
+}
+.MyCalendar .ajax__calendar_header 
+{
+	color: #D3562F;
+}
+.MyCalendar .ajax__calendar_body 
+{
+	color: #0061AF;
+	
+}
+.MyCalendar .ajax__calendar_days .ajax__calendar_day 
+{
+	color: #0061AF;
+	font-size:1em;
+	font-weight:500;
+}
+.MyCalendar .ajax__calendar_days .ajax__calendar_dayname 
+{
+	font-weight: bold;
+	color: #0061AF;
+	word-break: normal;
+}
+
+.MyCalendar .ajax__calendar_month 
+{
+	color: #0061AF;	
+}
+
+.MyCalendar .ajax__calendar_year 
+{
+	color: #0061AF;
+}
+.MyCalendar .ajax__calendar_footer 
+{
+	color: #D3562F;
+}
+
+.MyCalendar .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_year,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_month
+{
+	font-weight: bold;
+	color: #0061AF;
+	
+	outline: #0061B0 solid 1px;
+	
+}
+
+.MyCalendar .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar .ajax__calendar_active .ajax__calendar_year {
+    color: #D3562F;
+    font-weight:bold;
+}
+
+.MyCalendar .ajax__calendar_other  .ajax__calendar_day
+{
+	color: black;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +                        FORMULARIO DIRECCION                     + */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.tdDireccionIzquierda
+{
+	background: url(imgGaspar/bgnDireccionIzq.gif) no-repeat;
+	background-color:#F2F2F2;
+}
+.tdDireccionDerecha
+{
+	background: url(imgGaspar/bgnDireccionDer.gif) top right no-repeat;
+	background-color:#F2F2F2;
+}
+
+.tdDireccionBordeSupInf{
+	background-color:#F2F2F2;
+	height:9px;
+	width:100%;
+}
+.tdDireccionBordeDerIzq{
+	background-color:#F2F2F2;
+	height:9px;
+}
+.tdDireccionEsqSupIzq {
+	background: url(imgGaspar/imgDireccionEsqSupIzq.gif) top left no-repeat;
+	height:9px;
+}
+.tdDireccionEsqSupDer {
+	background: url(imgGaspar/imgDireccionEsqSupDer.gif) top right no-repeat;
+	height:9px;
+}
+.tdDireccionEsqInfIzq {
+	background: url(imgGaspar/imgDireccionEsqInfIzq.gif) bottom left no-repeat;
+	height:9px;
+}
+.tdDireccionEsqInfDer {
+	background: url(imgGaspar/imgDireccionEsqInfDer.gif) bottom right no-repeat;
+	height:9px;
+}
+.tdDireccionTit
+{
+    color: #3333FF;
+}
+ 
+ /*Modal Popup*/
+.modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+ .modalPopup {
+	background-color:#ffffdd;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:250px;
+}
+
+.ui-widget-overlay {
+	z-index: 10 !important;
+}
+.modal {
+	display: none;
+}
+.submit {
+	height: auto !important;
+}
+.label {
+	color: #e5500b !important;
+	font-weight: bold !important;
+}
+.formulario {
+	display: block;
+	margin: 0 auto;
+	width: 510px;
+	color: #666666;
+	font-family: Arial;
+}
+.tableHead th {
+	padding: 2px !important;
+}
+.tableHead th p {
+	text-align: center !important;
+	margin: 2px !important;
+}
+.linkHover:hover {
+	text-decoration: underline;
+	color: red;
+}
+.tableHead th a {
+	color: white !important;
+}
+
+.titleLine1 {
+	color:#01415b;
+	font-weight:normal;
+	font-size:12px;
+	text-transform:uppercase;
+}
+.titleLine2 {
+	padding-left:20px;
+	color:#01415b;
+	font-weight:bolder;
+	font-size:14px;
+	text-transform:uppercase;
+}
+
+
+.headerTitleCustom {
+	float: left;
+	width: 92%;
+}
+.uploadFileContent{
+	margin:10px;
+	width:400px;
+}
+.overlay {
+	position: fixed;
+	z-index: 1000 !important;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-color: white;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+.overlayContent {
+	z-index: 99;
+	margin: 250px auto;
+	width: 80px;
+	height: 80px;
+}
+.overlayContent h2 {
+	font-size: 13px;
+	font-weight: bold;
+	color: #000;
+}
+
+.titlePage
+{
+ display:table;
+}
+
+.cellTitle{
+ display:table-cell;
+}
+.titleText{
+	vertical-align:middle;
+}
+.alignRight
+{
+    text-align: right !important;
+}
+
+.alignLeft
+{
+    text-align: left !important;
+}
+.uploadFileContentAlignLeft{
+	margin:0px;
+	width:400px;
+}
+.error {
+	color:#FF0000;
+	font-weight:bold;
+}
+.alert {
+	color:#eeae02;
+	font-weight:bold;
+}
+.denied {
+	color:#FF0000;
+	font-weight:bold;
+}
+.ok {
+	color:#31a800;
+	font-weight:bold;
+}
+.info {
+	color:#000066;
+	font-weight:bold;
+}
+
+.listas{
+	border:1px solid #0061AF;
+}
+.exampleWrapper {
+     width: 900px;
+     height: 750px;
+}
+ 
+html .cfgVertical {
+     float: left;
+}
+ 
+.ConfigurationPanel {
+     zoom: 1;
+}
+ 
+.ConfigurationPanel:after {
+     content: "";
+     display: block;
+     clear: both;
+}
+ 
+#ctl00_ContentPlaceHolder1_RadPageView3 .contentWrapper {
+     padding: 10px 0 10px 40px;
+     zoom: 1;
+}
+ 
+.contentWrapper:after {
+     content: "";
+     display: block;
+     clear: both;
+}
+ 
+.customLegendWrapper {
+     text-align: center;
+     padding-top: 15px;
+}
+ 
+.customLegend {
+     background-color: #eeeeee;
+     color: #555555;
+     display: inline-block;
+     *display: inline;
+     zoom: 1;
+     padding: 5px;
+}
+ 
+     .customLegend div {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          margin: 0px 5px;
+          height: 20px;
+     }
+ 
+          .customLegend div div {
+               width: 10px;
+               height: 10px;
+               vertical-align: -1px;
+               vertical-align: middle;
+          }
+ 
+     .customLegend .warnings div {
+          background-color: #30abf2;
+     }
+ 
+     .customLegend .errors div {
+          background-color: #006caa;
+     }
+ 
+     .customLegend .warningsHigh div {
+          background-color: #ffb128;
+     }
+ 
+     .customLegend .errorsHigh div {
+          background-color: #ff8828;
+     }
+ 
+.rcbHeader ul,
+.rcbFooter ul,
+.rcbItem ul, .rcbHovered ul, .rcbDisabled ul {
+     width: 100%;
+     display: inline-block;
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+}
+ 
+.col1, .col2 {
+     float: left;
+     margin: 0;
+     padding: 0 5px 0 0;
+     line-height: 14px;
+}
+ 
+.col1 {
+     width: 230px;
+}
+ 
+.col2 {
+     width: 140px;
+}

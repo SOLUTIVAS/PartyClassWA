@@ -1,0 +1,150 @@
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\SolutionIttems\MySql.Data.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\EEPPM.Accidentes.LogicaNegocio.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\EEPPM.Accidentes.LogicaNegocio.pdb
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\EEPPM.Accidentes.Datos.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\bin\Debug\EEPPM.Accidentes.Datos.pdb
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\obj\Debug\EEPPM.Accidentes.LogicaNegocio.dll
+C:\Proyectos\TC\Fuentes\Negocio\EEPPM.Accidentes.LogicaNegocio\obj\Debug\EEPPM.Accidentes.LogicaNegocio.pdb
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+C:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+C:\TEMP\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+C:\TEMP\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll.config
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\_PROYECTOS\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll.config
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+C:\Users\Pau\Desktop\TourColombia\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll.config
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb
+D:\Proyectos\TC\Fuentes\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll.config
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.LogicaNegocio.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.Comun.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\TC.Datos.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.dll
+D:\Proyectos\PartyClass\Negocio\TC.LogicaNegocio\obj\Debug\TC.LogicaNegocio.pdb

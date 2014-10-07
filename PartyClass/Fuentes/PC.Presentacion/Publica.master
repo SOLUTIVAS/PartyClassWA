@@ -1,0 +1,101 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Publica.master.cs" Inherits="MasterPage_Publica" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Tour Colombia Operador Turístico</title>
+    <link rel="shortcut icon" href="App_Themes/TC_Theme/imgGaspar/TourColombiaIcono.ico" />
+    <script type="text/javascript" src="Css/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="Css/jquery-ui-1.10.3.custom.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="divCabezote02">
+    </div>
+    <!-- ++++++++++++++++++++ EMPRESA - SERVICIO - FECHA ++++++++++++++++++++ -->
+    <div id="divEmpresaFecha">
+       <%-- <div class="divCerrarSesion">
+            <a href="/Seguridad/CerrarSesion.aspx">
+                <p id="txtSalir">
+                    Salir</p>
+            </a>
+        </div>--%>
+        <asp:Label ID="lblFecha" runat="server" CssClass="spnFecha" />
+    </div>
+    <!-- ++++++++++++++++++++++++++ MENU HORIZONTAL +++++++++++++++++++++++++ -->
+    <div id="divFranjaMenu">
+        <div id="divMenu01">
+        </div>
+        <div class="divMenu02">
+        </div>
+        <div class="divMenu02">
+            
+        </div>
+        <div class="divMenu02">
+           
+        </div>
+        <div class="divMenu02">
+        </div>
+    </div>
+    <!-- ++++++++++++++++++++++++++++ CONTENIDO +++++++++++++++++++++++++++++ -->
+    <div id="divContenido">
+        <table class="tblVentana">
+            <tr>
+                <td class="tdVentanaArrIzq">
+                </td>
+                <td class="tdVentanaArrCen" style="width: 796px">
+                    <asp:ScriptManager ID="ScriptManager1" runat="server" />
+                </td>
+                <td class="tdVentanaArrDer">
+                </td>
+            </tr>
+            <tr>
+                <td class="tdVentanaCenIzq">
+                </td>
+                <td class="tdVentanaCenCen">
+                </td>
+                <td class="tdVentanaCenDer">
+                </td>
+            </tr>
+            <tr>
+                <td class="tdVentanaCenIzq">
+                </td>
+                <td class="tdVentanaCenCen">
+                    <asp:ContentPlaceHolder ID="cphContenido" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td class="tdVentanaCenDer">
+                </td>
+            </tr>
+            <tr>
+                <td class="tdVentanaCenIzq">
+                </td>
+                <td class="tdVentanaCenCen">
+                    &nbsp;
+                </td>
+                <td class="tdVentanaCenDer">
+                </td>
+            </tr>
+            <tr>
+                <td class="tdVentanaAbaIzq">
+                </td>
+                <td class="tdVentanaAbaCen" style="width: 796px">
+                </td>
+                <td class="tdVentanaAbaDer">
+                </td>
+            </tr>
+        </table>
+    </div>
+    <!-- ++++++++++++++++++++++++++++ PIE PAGINA ++++++++++++++++++++++++++++ -->
+    <div id="divPiePagina">
+        <div id="divPiePagina01">
+        </div>
+        <div id="divPiePagina02">
+            Tour Colombia Operador Turístico</div>
+        <div id="divPiePagina03">
+        </div>
+    </div>
+    </form>
+</body>
+</html>

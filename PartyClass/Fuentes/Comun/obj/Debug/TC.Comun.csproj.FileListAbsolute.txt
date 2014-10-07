@@ -1,0 +1,38 @@
+C:\Proyectos\TC\Fuentes\TC.Comun\bin\Debug\TC.Comun.dll
+C:\Proyectos\TC\Fuentes\TC.Comun\bin\Debug\TC.Comun.pdb
+C:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\TC.Comun.dll
+C:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\TC.Comun\bin\Debug\TC.Comun.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\TC.Comun\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\TC.Comun\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\TC.Comun\obj\Debug\TC.Comun.dll
+D:\Proyectos\TC\Nueva carpeta\FuentesBackup20130519\FuentesBackup20130519\TC.Comun\obj\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Fuentes\TC.Comun\bin\Debug\TC.Comun.dll
+D:\Proyectos\TC\Fuentes\TC.Comun\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\TC.Comun.dll
+D:\Proyectos\TC\Fuentes\TC.Comun\obj\Debug\TC.Comun.pdb
+C:\TEMP\Fuentes\Comun\bin\Debug\TC.Comun.dll
+C:\TEMP\Fuentes\Comun\bin\Debug\TC.Comun.pdb
+C:\TEMP\Fuentes\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\Fuentes\Comun\obj\Debug\TC.Comun.dll
+C:\TEMP\Fuentes\Comun\obj\Debug\TC.Comun.pdb
+C:\TEMP\TC\Fuentes\Comun\bin\Debug\TC.Comun.dll
+C:\TEMP\TC\Fuentes\Comun\bin\Debug\TC.Comun.pdb
+C:\TEMP\TC\Fuentes\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\TC\Fuentes\Comun\obj\Debug\TC.Comun.dll
+C:\TEMP\TC\Fuentes\Comun\obj\Debug\TC.Comun.pdb
+C:\_PROYECTOS\TourColombia\Comun\bin\Debug\TC.Comun.dll
+C:\_PROYECTOS\TourColombia\Comun\bin\Debug\TC.Comun.pdb
+C:\_PROYECTOS\TourColombia\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\_PROYECTOS\TourColombia\Comun\obj\Debug\TC.Comun.dll
+C:\_PROYECTOS\TourColombia\Comun\obj\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Fuentes\Comun\bin\Debug\TC.Comun.dll
+D:\Proyectos\TC\Fuentes\Comun\bin\Debug\TC.Comun.pdb
+D:\Proyectos\TC\Fuentes\Comun\obj\Debug\TC.Comun.dll
+D:\Proyectos\TC\Fuentes\Comun\obj\Debug\TC.Comun.pdb
+D:\Proyectos\PartyClass\Comun\bin\Debug\TC.Comun.dll
+D:\Proyectos\PartyClass\Comun\bin\Debug\TC.Comun.pdb
+D:\Proyectos\PartyClass\Comun\obj\Debug\TC.Comun.dll
+D:\Proyectos\PartyClass\Comun\obj\Debug\TC.Comun.pdb
