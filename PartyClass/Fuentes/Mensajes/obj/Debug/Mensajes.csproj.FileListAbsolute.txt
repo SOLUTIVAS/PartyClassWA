@@ -18,3 +18,9 @@ D:\Proyectos\PartyClass\Fuentes\Mensajes\bin\Debug\Mensajes.dll
 D:\Proyectos\PartyClass\Fuentes\Mensajes\bin\Debug\Mensajes.pdb
 D:\Proyectos\PartyClass\Fuentes\Mensajes\obj\Debug\Mensajes.dll
 D:\Proyectos\PartyClass\Fuentes\Mensajes\obj\Debug\Mensajes.pdb
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\bin\Debug\Mensajes.xml
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\bin\Debug\Mensajes.dll
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\bin\Debug\Mensajes.pdb
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\obj\Debug\Mensajes.dll
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Mensajes\obj\Debug\Mensajes.pdb

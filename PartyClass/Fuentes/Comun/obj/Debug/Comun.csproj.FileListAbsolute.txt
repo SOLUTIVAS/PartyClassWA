@@ -10,3 +10,8 @@ D:\Proyectos\PartyClass\Fuentes\Comun\bin\Debug\Comun.dll
 D:\Proyectos\PartyClass\Fuentes\Comun\bin\Debug\Comun.pdb
 D:\Proyectos\PartyClass\Fuentes\Comun\obj\Debug\Comun.dll
 D:\Proyectos\PartyClass\Fuentes\Comun\obj\Debug\Comun.pdb
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Comun\bin\Debug\Comun.dll
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Comun\bin\Debug\Comun.pdb
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Comun\obj\Debug\Comun.dll
+C:\Solutivas\PartyClassWA\PartyClass\Fuentes\Comun\obj\Debug\Comun.pdb
